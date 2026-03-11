@@ -7,4 +7,4 @@
 ## Conceito
 
 LOCAL               <->     REMOTO 
-_na minha máquina_          _no github_
+_na minha máquina_          **no github**
